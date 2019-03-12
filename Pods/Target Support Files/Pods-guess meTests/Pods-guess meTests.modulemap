@@ -1,0 +1,6 @@
+framework module Pods_guess_meTests {
+  umbrella header "Pods-guess meTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
